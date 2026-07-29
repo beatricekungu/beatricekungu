@@ -16,7 +16,7 @@
   <a href="https://beatricekungu.github.io/projects/">
     <img alt="Explore Projects" src="https://img.shields.io/badge/Explore_Projects-0F766E?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://beatricekungu.github.io/assets/resume.pdf?v=2026-07-28">
+  <a href="https://beatricekungu.github.io/assets/resume.pdf?v=2026-07-29">
     <img alt="View Resume" src="https://img.shields.io/badge/View_Resume-334155?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/beatricekungu/">
